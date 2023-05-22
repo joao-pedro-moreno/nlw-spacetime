@@ -1,10 +1,10 @@
-<h1 align="center">NLW Spacetime</h1>
+# NLW Spacetime
 
-<p align="center">Time capsule web and mobile application, where the user can log in with github and add memories to a timeline</p>
+NLW Spacetime is a web and mobile time capsule application, where the user can log in with GitHub and add memories to a timeline.
 
-#
+---
 
-<h2 align="center">Preview<h2>
+## Preview
 
 <img src="https://i.imgur.com/QubV0l0.png" />
 
@@ -16,51 +16,47 @@
 
 <img src="https://i.imgur.com/wv1cqGn.png" />
 
-#
+<img src="https://i.imgur.com/rqMyXDy.jpg" style="width: 250px" />
 
-<h2 align="center">Mobile</h2>
+<img src="https://i.imgur.com/MrExJ7h.jpg" style="width: 250px" />
 
-#
+<img src="https://i.imgur.com/ThNlVnw.jpg" style="width: 250px" />
 
-<img src="https://i.imgur.com/rqMyXDy.jpg" />
-
-<img src="https://i.imgur.com/MrExJ7h.jpg" />
-
-<img src="https://i.imgur.com/ThNlVnw.jpg" />
-
+---
 
 ## Technologies
 
-<ul>
-    <li>React</li>
-    <li>Next.js 13</li>
-    <li>Next Auth</li>
-    <li>TailwindCSS</li>
-    <li>Expo</li>
-    <li>TypeScript</li>
-    <li>Node.js</li>
-    <li>Fastify</li>
-    <li>Axios</li>
-    <li>Vercel</li>
-    <li>Prisma</li>
-    <li>SQLite</li>
-</ul>
+- React
+- Next.js 13
+- Next Auth
+- TailwindCSS
+- Expo
+- TypeScript
+- Node.js
+- Fastify
+- Axios
+- Vercel
+- Prisma
+- SQLite
 
-#
+---
 
 ## Layout
 
-<a href="https://www.figma.com/community/file/1240070456276424762" target="_blank">Figma</a>
+[Click here](https://www.figma.com/community/file/1240070456276424762) to access the project layout on Figma.
 
-#
+---
 
 ## Installation
 
 ### Clone the project
-```cmd
+
+```shell
 git clone https://github.com/joao-pedro-moreno/nlw-spacetime.git
 cd nlw-spacetime
 ```
+
+---
 
 ### Install the dependencies
 
@@ -82,26 +78,28 @@ cd server
 npm install
 ```
 
-### Running the project
+---
 
-##### Web Application
+## Running the project
+
+#### Web Application
 ```cmd
 npm run dev
 ```
 
-##### Mobile Application
+#### Mobile Application
 ```cmd
 npm run start
 ```
 
-##### API Server
+#### API Server
 ```cmd
 npm run dev
 ```
 
 #### The web application will be avaible for access on your browser at <http://localhost:3000> and the API at <http://localhost:3333>
 
-#
+---
 
 ## License
 
